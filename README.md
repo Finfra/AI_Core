@@ -2,6 +2,9 @@
 * 강의 컨셉
   - 인공지능관련 5개의 주제를 10시간에 진행(옵니버스식이 아님, 과목간 연계성 있음.)
 
+![agenda](agenda.svg)
+
+
 ## 1.파이썬 Introspection과 분석 라이브러리 실습
 * 인공지능 구현시 많이 사용되는 Python언어의 사용 노하우 및 공통적으로 사용되는 라이브러리(Numpy, Pandas, Scikit-Learn)에 대한 소개와 실습을 진행합니다.
 ### 1. 파이썬 Fast Track
